@@ -60,7 +60,6 @@ Python Backend Developer with experience in building web applications and APIs. 
 ### 🌐 Contact  
 - Email: petr.bajjkov@rambler.ru  
 - Telegram: [@iPetr](https://t.me/iPetr)  
-- LinkedIn: [Add your LinkedIn](https://linkedin.com/in/your-profile) (если есть)  
 
 <!--
 **Mefistop/Mefistop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
