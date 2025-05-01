@@ -1,8 +1,4 @@
-<div class="header">
-    <h1>𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢, Petr Bakov</h1>
-</div>
-
-# Petr Bakov  
+# Hello, I'm Petr Bakov  
 **Python Backend Developer** | Django • FastAPI • Flask • Docker  
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mefistop&show_icons=true&theme=dark)](https://github.com/Mefistop)  
