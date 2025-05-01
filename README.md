@@ -39,9 +39,9 @@ Python Backend Developer with experience in building web applications and APIs. 
 ### 📚 Professional Experience  
 **Akb Avangard Bank, Moscow**  
 *Team Lead | Mar 2021 – Present*  
-- Managed a team of 12, improving operational efficiency by 30% through task optimization.  
-- Implemented standardized reporting templates, reducing errors by 25%.  
-- Organized employee training programs, increasing team productivity by 20%.  
+- Managed a team of 12, improving operational efficiency through task optimization.  
+- Implemented standardized reporting templates, reducing errors by 15%.  
+- Organized employee training programs, increasing team productivity.  
 
 ---
 
