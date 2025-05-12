@@ -1,4 +1,4 @@
-# Hello, I'm Petr Baykov  https://github.com/Mefistop/Mefistop/blob/main/README.md
+# Hello, I'm Petr Baykov  
 **Python Backend Developer** | Django • FastAPI • Flask • Docker  
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mefistop&show_icons=true&theme=dark)](https://github.com/Mefistop)  
